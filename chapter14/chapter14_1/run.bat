@@ -1,0 +1,1 @@
+clear && rustfmt src/main.rs src/lib.rs && cargo run
